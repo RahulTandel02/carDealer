@@ -1,0 +1,9 @@
+.img {
+  width: 100; /* You can set the dimensions to whatever you want */
+  height: 500px;
+  object-fit: cover;
+}
+
+.set-width {
+  width: 300px;
+}
